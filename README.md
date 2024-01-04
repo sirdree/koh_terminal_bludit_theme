@@ -27,7 +27,7 @@ Now you're able to activate the Theme in the `/admin` Area.
 For the search plugin (if activated), replace the original folder `search` under `bl-plugins` with the zip file provided.
 
 ## Search plugin to replace
-![fa-zip](search_plugin.zip)
+:memo: **Note:** (search_plugin.zip)
 
 
 ## Screenshot
