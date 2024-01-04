@@ -24,6 +24,11 @@ sudo chown -R www-data:www-data koh_terminal_bludit_theme
 
 Now you're able to activate the Theme in the `/admin` Area.
 
+For the search plugin (if activated), replace the original folder `search` under `bl-plugins` with the zip file provided.
+
+## Search plugin to replace
+![plugin](search_plugin.zip)
+
 
 ## Screenshot
 ![screenshot](screen.png)
