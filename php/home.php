@@ -54,7 +54,7 @@
 </div> <!-- END Content Container HOME -->
 
 <!-- Pagination -->
-
+<hr>
 <div class="container text-center">
 <?php if (Paginator::numberOfPages()>1): ?>
 <nav class="paginator">
